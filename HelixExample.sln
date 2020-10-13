@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixExample.Project.Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixExample.Foundation.MultiTenant", "src\Foundation\MultiTenant\code\HelixExample.Foundation.MultiTenant.csproj", "{2FFB9BA2-6820-4C72-9653-654414F2696C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelixExample.Feature.Blog", "src\Feature\Blog\code\HelixExample.Feature.Blog.csproj", "{FD043549-526B-417B-9D5E-69654C16F10E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2FFB9BA2-6820-4C72-9653-654414F2696C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FFB9BA2-6820-4C72-9653-654414F2696C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FFB9BA2-6820-4C72-9653-654414F2696C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD043549-526B-417B-9D5E-69654C16F10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD043549-526B-417B-9D5E-69654C16F10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD043549-526B-417B-9D5E-69654C16F10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD043549-526B-417B-9D5E-69654C16F10E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,5 +55,6 @@ Global
 		{479EACC7-8590-43CE-921A-1E95DE540312} = {AA9F3DF5-1122-4354-B479-0E1E3747CBB4}
 		{C723F62D-5301-46D3-B10D-DE8780615F90} = {479EACC7-8590-43CE-921A-1E95DE540312}
 		{2FFB9BA2-6820-4C72-9653-654414F2696C} = {D173F765-60D4-46D5-BC0C-93F22500FBE7}
+		{FD043549-526B-417B-9D5E-69654C16F10E} = {94BF50C7-AD11-4D0C-A2B1-51DB2F09A656}
 	EndGlobalSection
 EndGlobal
