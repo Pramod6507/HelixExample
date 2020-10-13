@@ -1,0 +1,14 @@
+﻿---
+ID: "0ea0ce47-37db-4204-b6f6-52334e49edb1"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "79c0e093-8c02-4bce-af61-5cd7b9602c1a"
+Path: /sitecore/content/All Sites
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201013T204244Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "81fca8e5-6785-4da3-8787-83e2dcd96848"
+Parent: "c027aea3-fbfb-4c8c-bfbe-621861be3969"
+Template: "ed2acdfe-fb99-404a-89cb-6abadad10f13"
+Path: /sitecore/content/All Sites/Main Site/Example
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Example.com
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201013T204310Z
