@@ -88,8 +88,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz.Project\HelixExample.Project.Example.config" />
     <Content Include="App_Config\Include\zzz.Project\HelixExample.Project.Example.Serialization.config" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
