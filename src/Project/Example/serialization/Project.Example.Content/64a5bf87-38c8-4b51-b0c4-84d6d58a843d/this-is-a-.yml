@@ -1,0 +1,21 @@
+﻿---
+ID: "ffa6f760-a8a2-4057-b65d-e8df817e481a"
+Parent: "64a5bf87-38c8-4b51-b0c4-84d6d58a843d"
+Template: "bf0ace45-4c4c-4a3b-8636-da09873b966a"
+Path: "/sitecore/content/All Sites/Main Site/Example/Home/Blog/this-is-a-test-article"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: This is a Test Article
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201013T233735Z
+    - ID: "9173fea8-a4cb-4501-80f8-92fcf90e4d44"
+      Hint: ArticleTitle
+      Value: This is a test article

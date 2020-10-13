@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz.Project\HelixExample.Project.Example.Serialization.config" />
+    <Content Include="App_Config\Include\zzz.Project\HelixExample.Project.Example.config" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <Content Include="Views\Shared\Layout.cshtml" />
     <None Include="Web.config" />
