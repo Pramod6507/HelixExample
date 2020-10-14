@@ -4,6 +4,13 @@ Parent: "065e5745-cf19-494b-a2e2-0e94154107db"
 Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
 Path: /sitecore/layout/Renderings/Feature/Blog/ArticleDisplay
 DB: master
+SharedFields:
+- ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
+  Hint: Controller Action
+  Value: Display
+- ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
+  Hint: Controller
+  Value: HelixExample.Feature.Blog.Controllers.ArticleController, HelixExample.Feature.Blog
 Languages:
 - Language: en
   Versions:
